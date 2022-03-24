@@ -61,9 +61,9 @@ print(time.time() - start)
 
 - Dataframe de saída 1 (df1):
 
-![alt text](https://github.com/schmidt-samuel/desafio_programacao/blob/master/desafio_programacao/imagens/dataframe_saida1.png)
+![alt text](https://github.com/schmidt-samuel/desafio_programacao/blob/main/desafio_programacao/imagens/dataframe_saida1.png?raw=true))
 
 - Dataframe de saída 2 (df2):
 
-![alt text](https://github.com/schmidt-samuel/desafio_programacao/blob/master/desafio_programacao/imagens/dataframe_saida2.png)
+![alt text](https://github.com/schmidt-samuel/desafio_programacao/blob/main/desafio_programacao/imagens/dataframe_saida2.png?raw=true))
 
